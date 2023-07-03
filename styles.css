@@ -1,0 +1,14 @@
+p, h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: antiquewhite;
+}
+ 
+h1 {
+    text-align: center;
+}
+p {
+    font-size: 23px;
+}
